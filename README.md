@@ -17,8 +17,21 @@ allprojects {
 ```
 And add a dependency code to your **APP**'s `build.gradle` file. [![](https://jitpack.io/v/EsmaeelNabil/Stepper-input-view.svg)](https://jitpack.io/#EsmaeelNabil/Stepper-input-view)
 ```gradle
+android {
+    
+    ...
+    
+    
+    buildFeatures {
+        dataBinding true
+    }
+    
+}
+
 dependencies {
+
 	  implementation 'com.github.EsmaeelNabil:Stepper-input-view:0.1'
+
 }
 ```
 
