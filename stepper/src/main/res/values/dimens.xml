@@ -1,0 +1,34 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="nav_header_vertical_spacing">8dp</dimen>
+    <dimen name="nav_header_height">176dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="pageMarginAndOffset">16dp</dimen>
+    <dimen name="pageMarginAndOffsetStart">0dp</dimen>
+    <dimen name="pageMargin">20dp</dimen>
+    <dimen name="offset">30dp</dimen>
+
+    <dimen name="title_text_size_page_title3">@dimen/_35ssp</dimen>
+    <dimen name="title_text_size_page_title2">@dimen/_23ssp</dimen>
+    <dimen name="title_text_size_page_title2_5">@dimen/_26ssp</dimen>
+    <dimen name="title_text_size_page_title2_9">@dimen/_31ssp</dimen>
+
+    <dimen name="title_text_size_page_title1">@dimen/_20ssp</dimen>
+    <dimen name="title_text_size_page_title">@dimen/_18ssp</dimen>
+    <dimen name="title_text_size_page_title_small">@dimen/_17ssp</dimen>
+    <dimen name="title_text_size_large1">@dimen/_16ssp</dimen>
+    <dimen name="title_text_size_large2">@dimen/_15ssp</dimen>
+    <dimen name="title_text_size_medium">@dimen/_14ssp</dimen>
+    <dimen name="title_text_size_small">@dimen/_13ssp</dimen>
+
+    <dimen name="details_text_size_large">@dimen/_12ssp</dimen>
+    <dimen name="details_text_size_medium">@dimen/_10ssp</dimen>
+    <dimen name="details_text_size_small">@dimen/_9ssp</dimen>
+    <dimen name="details_text_size_tiny">@dimen/_7ssp</dimen>
+    <dimen name="list_item_spacing">16dp</dimen>
+    <dimen name="list_item_spacing_half">8dp</dimen>
+
+</resources>

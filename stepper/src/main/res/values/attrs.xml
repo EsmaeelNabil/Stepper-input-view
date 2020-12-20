@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="StepperInputView">
+
+        <attr name="hValue" format="integer" />
+        <attr name="dValue" format="integer" />
+
+        <attr name="hMin" format="integer" />
+        <attr name="hMax" format="integer" />
+        <attr name="dMin" format="integer" />
+        <attr name="dMax" format="integer" />
+
+
+        <attr name="hUpDrawable" format="reference" />
+        <attr name="hDownDrawable" format="reference" />
+        <attr name="dUpDrawable" format="reference" />
+        <attr name="dDownDrawable" format="reference" />
+
+        <attr name="hTitleText" format="string" />
+        <attr name="dTitleText" format="string" />
+
+
+        <attr name="cardBgColor" format="reference|color" />
+        <attr name="hTitleVisible" format="boolean" />
+        <attr name="dTitleVisible" format="boolean" />
+    </declare-styleable>
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#07689F</color>
+    <color name="colorPrimaryDark">#0C5781</color>
+    <color name="colorAccent">#07689F</color>
+
+    <color name="colorPrimaryLight">#0875B3</color>
+    <color name="colorPrimary50">#8007689F</color>
+    <color name="colorPrimary30">#3307689F</color>
+    <color name="colorSecondary">#07689F</color>
+    <color name="splash_background">#D8D8D8</color>
+    <color name="background">#ffffff</color>
+    <color name="defaultClickColor">#07689F</color>
+    <color name="sea_green">#ff31b162</color>
+
+    <color name="drawer_background_color">#07689F</color>
+
+
+    <color name="black">#000000</color>
+    <color name="grey">#f4f4f4</color>
+    <color name="grey5">#0D54504E</color>
+    <color name="cloudy">#ABA9A8</color>
+    <color name="schooner">#928F8E</color>
+    <color name="heather">#B8C5D8</color>
+
+    <color name="shark">#252C32</color>
+    <color name="dark_title_color">#2b2523</color>
+    <color name="dark_details_color">#ff54504e</color>
+    <color name="grey_details_color">#ff928f8e</color>
+    <color name="barier_color">#ffe9e9e9</color>
+
+
+    <color name="yellow">#F0BC5E</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_black100">#30383B</color>
+    <color name="blue_black200">#2B3C6A</color>
+    <color name="rose">#8C6767</color>
+    <color name="dark_green">#0AA245</color>
+    <color name="dark_grey">#802b2523</color>
+    <color name="grey500">#979797</color>
+    <color name="ash_grey">#ffb6b6b6</color>
+    <color name="grey100">#F8F8F8</color>
+    <color name="grey200">#E2E2E2</color>
+    <color name="grey300">#D5D4D3</color>
+    <color name="errorColor">#F44336</color>
+    <color name="light_blue_400">#FF29B6F6</color>
+    <color name="light_blue_600">#FF039BE5</color>
+    <color name="gray_400">#FFBDBDBD</color>
+    <color name="gray_600">#FF757575</color>
+    <color name="creamy_white">#fff4f4f4</color>
+    <color name="white_20">#1FFFFFFF</color>
+    <color name="white_40">#4DFFFFFF</color>
+    <color name="liver">#ff54504e</color>
+    <color name="platinum">#ffe8e8e8</color>
+    <color name="munsell">#fff3f4f5</color>
+
+
+    <color name="tupan_grey">#ff868789</color>
+
+    <color name="card_unselected">#fff3f4f5</color>
+    <color name="card_selected">#07689F</color>
+
+
+    <color name="glitter">#dbe8f2</color>
+
+
+
+
+    <color name="arcColor">#F8F8F8</color>
+    <color name="progressColor">#0875B3</color>
+    <color name="light_blue_50">#3394c1db</color>
+
+</resources>

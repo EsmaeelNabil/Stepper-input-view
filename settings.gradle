@@ -1,0 +1,3 @@
+include ':stepper'
+include ':app'
+rootProject.name = "stepper-input-view"
